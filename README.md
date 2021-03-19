@@ -28,6 +28,13 @@ Setup the project; run the following commands within your project:
 copy .\.env.example .\.env
 ```
 
+Install the required dependencies:
+```batch
+composer install
+```
+
+Generate a new key for your application:
+
 ```batch
 php artisan key:generate
 ```
