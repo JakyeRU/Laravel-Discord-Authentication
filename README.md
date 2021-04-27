@@ -14,7 +14,7 @@ Go to OAuth2 and create a new redirect for your application.<br>
 It should point to your application's authentication endpoint. (https://domain.com/api/login)
 
 ## Laravel
-### Step 1
+### Step #1
 
 Get the project:
 ```batch
@@ -44,7 +44,7 @@ php artisan key:generate
 php artisan migrate
 ```
 
-### Step 2
+### Step #2
 Update `.env` with your Discord application details. (DISCORD_CLIENT_ID, DISCORD_CLIENT_SECRET DISCORD_REDIRECT_URI) <br>
 ![](https://i.imgur.com/VCEt9tX.png) <br>
 
@@ -54,7 +54,7 @@ DISCORD_CLIENT_SECRET=DPn_n4-3Aol8ZwjDoigrEQN2jtAj4f_
 DISCORD_REDIRECT_URI=http://localhost:8000/api/login
 ```
 
-### Step 3
+### Step #3
 Start the server and go to your application.
 ```batch
 php artisan serve
