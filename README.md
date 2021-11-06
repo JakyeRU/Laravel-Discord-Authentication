@@ -1,6 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 ![](./svgs/error-markup.svg)
+<a href="https://github.com/JakyeRU/Larascord">
+![](./svgs/info-markup.svg)
+<a/>
 
 # About Laravel-Discord Authentication
 <strong>Laravel-Discord Authentication</strong> is a project that uses Laravel's built-in authentication system to authenticate users with Discord.
@@ -74,3 +77,6 @@ php artisan serve
 
 ## Authenticated Homepage
 ![](https://i.imgur.com/ctJmb4X.png)
+
+## Credits
+[berakoc/github-notification-markups](https://github.com/berakoc/github-notification-markups)
