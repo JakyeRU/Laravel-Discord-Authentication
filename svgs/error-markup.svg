@@ -69,7 +69,7 @@
                         <g>
                         </g>
                     </svg>
-                    <span class="message">This project is just an example on how to integrate your Laravel application with Discord's OAuth2.</span>
+                    <span class="message">This project is outdated. Please use JakyeRU/Larascord instead.</span>
                 </div>
             </div>
         </div>
